@@ -1,12 +1,13 @@
 
 import './App.css'
+import CompanyCard from './components/ProfileCard'
 
 function App() {
  
 
   return (
     <>
-      Fahad Bin Javed
+      <CompanyCard/>
     </>
   )
 }
